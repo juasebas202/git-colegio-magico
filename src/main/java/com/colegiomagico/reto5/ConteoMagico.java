@@ -8,7 +8,7 @@ public class ConteoMagico {
     public static int contar(int limite) {
         int i=0;
         while (i <contar(4)) {
-            i+=contar(4);
+            i+=i;
         }
         return i; // TODO: Cambia esto
     }
